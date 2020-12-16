@@ -1,0 +1,55 @@
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.pdb
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.xml
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormLogin.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.Resources.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.vbproj.GenerateResource.Cache
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.exe
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.xml
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.pdb
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormUtama.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormDataAlternatif.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe.config
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.vbprojResolveAssemblyReference.cache
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormDataKriteria.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormLaporan.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormPenilaian.resources
+E:\Tugas Orang\Ecek - Ecek\Yanti\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormPerhitungan.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe.config
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.exe
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.xml
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.pdb
+E:\Acc\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe
+E:\Acc\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.pdb
+E:\Acc\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.xml
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.vbprojResolveAssemblyReference.cache
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormDataAlternatif.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormDataKriteria.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormLaporan.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormLogin.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormPenilaian.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormPerhitungan.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormUtama.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.Resources.resources
+E:\Acc\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.vbproj.GenerateResource.Cache
+E:\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe.config
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.exe
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.xml
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.pdb
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.vbprojResolveAssemblyReference.cache
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormDataAlternatif.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormDataKriteria.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormLaporan.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormLogin.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormPenilaian.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormPerhitungan.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.FormUtama.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora_BUMDES.Resources.resources
+E:\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.vbproj.GenerateResource.Cache
+E:\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe
+E:\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.pdb
+E:\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.xml
+E:\Portofolio\VB\Moora-BUMDES\Moora-BUMDES\bin\Debug\Moora-BUMDES.exe.config
+E:\Portofolio\VB\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.exe
+E:\Portofolio\VB\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.xml
+E:\Portofolio\VB\Moora-BUMDES\Moora-BUMDES\obj\x86\Debug\Moora-BUMDES.pdb
